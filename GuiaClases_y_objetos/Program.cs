@@ -3,16 +3,17 @@
 internal class Program
 {
     static void Main(String[] args)
-        { 
+    {
 
         Console.WriteLine("***** Aplicación de gestión de empleados ***** ");
-         
+
         //crear una lista para almacenar empleados
         List<Empleado> listaEmpleados = new List<Empleado>();
 
         //Agregar empleados de ejemplo a la lista
-        listaEmpleados.Add(new Empleado("Juan", 101, 30000, true));
-        listaEmpleados.Add(new Empleado("María", 102, 35000, true));
+        //converti a booleano por que mandaba error 
+        listaEmpleados.Add(new Empleado("Juan", 101, 30000));
+        listaEmpleados.Add(new Empleado("María", 102, 35000));
         listaEmpleados.Add(new Empleado("Pedro", 103, 32000, false)); //empleado inactivo
 
         //Mostrar los detalles de cada empleado en la lista 
@@ -33,9 +34,15 @@ internal class Program
         }
         else
         {
-            Console.WriteLine($"Empleado con numero {numeroEmpleadoCambiarEstado} no encontrado.");
+            Console.WriteLine($"Empleado con número {numeroEmpleadoCambiarEstado} no encontrado.");
         }
 
+        /*// instanciamos la clase  y creamos un nuevo objeto
+         * asi como tambien mandamos a llamar nuestro metodo AumentoSalario_Empleado
+         que esta declarado en nuestra clase Empleado */
+           Empleado Salario_N = new Empleado();
+        Salario_N.AumentoSalario_Empleado();
+    
         //metodo para buscar un empleado por su numero de empleado
         static Empleado BuscarEmpleado(List<Empleado> empleados, int numeroEmpleado )
         {
@@ -49,5 +56,6 @@ internal class Program
             return null; 
         }
     }
+        
        
 }

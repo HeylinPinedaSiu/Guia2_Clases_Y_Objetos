@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\heyli\\OneDrive\\Escritorio\\GuiaClasesyObjetos\\GuiaClases_y_objetos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF11A76-3AF7-42F0-8B3A-938C4DCC6136}|GuiaClases_y_objetos\\GuiaClases_y_objetos.csproj|c:\\users\\heyli\\onedrive\\escritorio\\guiaclasesyobjetos\\guiaclases_y_objetos\\guiaclases_y_objetos\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF11A76-3AF7-42F0-8B3A-938C4DCC6136}|GuiaClases_y_objetos\\GuiaClases_y_objetos.csproj|solutionrelative:guiaclases_y_objetos\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF11A76-3AF7-42F0-8B3A-938C4DCC6136}|GuiaClases_y_objetos\\GuiaClases_y_objetos.csproj|c:\\users\\heyli\\onedrive\\escritorio\\guiaclasesyobjetos\\guiaclases_y_objetos\\guiaclases_y_objetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF11A76-3AF7-42F0-8B3A-938C4DCC6136}|GuiaClases_y_objetos\\GuiaClases_y_objetos.csproj|solutionrelative:guiaclases_y_objetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\heyli\\OneDrive\\Escritorio\\GuiaClasesyObjetos\\GuiaClases_y_objetos\\GuiaClases_y_objetos\\Empleado.cs",
+              "RelativeDocumentMoniker": "GuiaClases_y_objetos\\Empleado.cs",
+              "ToolTip": "C:\\Users\\heyli\\OneDrive\\Escritorio\\GuiaClasesyObjetos\\GuiaClases_y_objetos\\GuiaClases_y_objetos\\Empleado.cs",
+              "RelativeToolTip": "GuiaClases_y_objetos\\Empleado.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAHAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T20:59:27.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\heyli\\OneDrive\\Escritorio\\GuiaClasesyObjetos\\GuiaClases_y_objetos\\GuiaClases_y_objetos\\Program.cs",
+              "RelativeDocumentMoniker": "GuiaClases_y_objetos\\Program.cs",
+              "ToolTip": "C:\\Users\\heyli\\OneDrive\\Escritorio\\GuiaClasesyObjetos\\GuiaClases_y_objetos\\GuiaClases_y_objetos\\Program.cs",
+              "RelativeToolTip": "GuiaClases_y_objetos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T20:54:48.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

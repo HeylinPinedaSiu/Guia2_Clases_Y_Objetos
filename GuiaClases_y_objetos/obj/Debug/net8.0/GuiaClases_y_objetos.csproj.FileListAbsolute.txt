@@ -1,0 +1,15 @@
+C:\Users\heyli\OneDrive\Escritorio\GuiaClasesyObjetos\GuiaClases_y_objetos\GuiaClases_y_objetos\obj\Debug\net8.0\GuiaClases_y_objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heyli\OneDrive\Escritorio\GuiaClasesyObjetos\GuiaClases_y_objetos\GuiaClases_y_objetos\obj\Debug\net8.0\GuiaClases_y_objetos.AssemblyInfoInputs.cache
+C:\Users\heyli\OneDrive\Escritorio\GuiaClasesyObjetos\GuiaClases_y_objetos\GuiaClases_y_objetos\obj\Debug\net8.0\GuiaClases_y_objetos.AssemblyInfo.cs
+C:\Users\heyli\OneDrive\Escritorio\GuiaClasesyObjetos\GuiaClases_y_objetos\GuiaClases_y_objetos\obj\Debug\net8.0\GuiaClases_y_objetos.csproj.CoreCompileInputs.cache
+C:\Users\heyli\OneDrive\Escritorio\GuiaClasesyObjetos\GuiaClases_y_objetos\GuiaClases_y_objetos\obj\Debug\net8.0\GuiaClases_y_objetos.sourcelink.json
+C:\Users\heyli\OneDrive\Escritorio\GuiaClasesyObjetos\GuiaClases_y_objetos\GuiaClases_y_objetos\bin\Debug\net8.0\GuiaClases_y_objetos.exe
+C:\Users\heyli\OneDrive\Escritorio\GuiaClasesyObjetos\GuiaClases_y_objetos\GuiaClases_y_objetos\bin\Debug\net8.0\GuiaClases_y_objetos.deps.json
+C:\Users\heyli\OneDrive\Escritorio\GuiaClasesyObjetos\GuiaClases_y_objetos\GuiaClases_y_objetos\bin\Debug\net8.0\GuiaClases_y_objetos.runtimeconfig.json
+C:\Users\heyli\OneDrive\Escritorio\GuiaClasesyObjetos\GuiaClases_y_objetos\GuiaClases_y_objetos\bin\Debug\net8.0\GuiaClases_y_objetos.dll
+C:\Users\heyli\OneDrive\Escritorio\GuiaClasesyObjetos\GuiaClases_y_objetos\GuiaClases_y_objetos\bin\Debug\net8.0\GuiaClases_y_objetos.pdb
+C:\Users\heyli\OneDrive\Escritorio\GuiaClasesyObjetos\GuiaClases_y_objetos\GuiaClases_y_objetos\obj\Debug\net8.0\GuiaClases_y_objetos.dll
+C:\Users\heyli\OneDrive\Escritorio\GuiaClasesyObjetos\GuiaClases_y_objetos\GuiaClases_y_objetos\obj\Debug\net8.0\refint\GuiaClases_y_objetos.dll
+C:\Users\heyli\OneDrive\Escritorio\GuiaClasesyObjetos\GuiaClases_y_objetos\GuiaClases_y_objetos\obj\Debug\net8.0\GuiaClases_y_objetos.pdb
+C:\Users\heyli\OneDrive\Escritorio\GuiaClasesyObjetos\GuiaClases_y_objetos\GuiaClases_y_objetos\obj\Debug\net8.0\GuiaClases_y_objetos.genruntimeconfig.cache
+C:\Users\heyli\OneDrive\Escritorio\GuiaClasesyObjetos\GuiaClases_y_objetos\GuiaClases_y_objetos\obj\Debug\net8.0\ref\GuiaClases_y_objetos.dll
